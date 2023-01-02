@@ -1,6 +1,6 @@
 # Vim Cheatsheet
 
-One commange a day, keeps the confusion away. 
+One command a day, keeps the confusion away. 
 
 ## File
 | Command       | Usage             |
@@ -26,3 +26,5 @@ One commange a day, keeps the confusion away.
 | dd            | Delete line       |
 | yy            | Copy line         |
 | p             | Paste             |
+
+## Page
