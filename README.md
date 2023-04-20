@@ -40,8 +40,8 @@ One command a day, keeps the confusion away.
 ## Search
 | Command       | Usage                          |
 | ------------- | ------------------------------ |
-| /<key>        | Searches for <key> word        |
-| n             | Next <key> word                |
-| N             | Previous <key> word            |
+| /key          | Searches for "key" word        |
+| n             | Next "key" word                |
+| N             | Previous "key" word            |
 
 ## Page
