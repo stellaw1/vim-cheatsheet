@@ -36,6 +36,8 @@ One command a day, keeps the confusion away.
 | B             | Backward (word + punctuation)  |
 | 0             | First column                   |
 | $             | Last column                    |
+| gg            | Beginning of file              |
+| G             | End of file                    |
 
 ## Search
 | Command       | Usage                          |
