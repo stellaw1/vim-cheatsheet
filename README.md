@@ -12,6 +12,7 @@ One command a day, keeps the confusion away.
 ## View
 | Command       | Usage             |
 | ------------- | ----------------- |
+| Ctrl + v      | Visual mode       |
 | Ctrl + f      | Page down         |
 | Ctrl + b      | Page up           |
 | :set number   | Show line numbers |
@@ -20,8 +21,12 @@ One command a day, keeps the confusion away.
 ## Edit
 | Command       | Usage                             |
 | ------------- | --------------------------------- |
+| .             | Repeat last change                |
+| u             | Undo                              |
+| Ctrl + r      | Redo                              |
 | i             | Insert                            |
 | a             | Append                            |
+| x             | Delete                            |
 | dd            | Delete line                       |
 | yy            | Copy line                         |
 | p             | Paste                             |
@@ -38,6 +43,9 @@ One command a day, keeps the confusion away.
 | $             | Last column                    |
 | gg            | Beginning of file              |
 | G             | End of file                    |
+| %             | Matching bracket               |
+| [{            | Beginning of function body     |
+| }]            | End of function body           |
 
 ## Search
 | Command       | Usage                          |
