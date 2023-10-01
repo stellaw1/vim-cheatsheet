@@ -23,6 +23,7 @@ One command a day, keeps the confusion away.
 | ------------- | ---------------------- |
 | Ctrl + v      | Visual mode            |
 | =             | Indent lines           |
+| V             | Select line            |
 | y             | Copy                   |
 | d             | Delete                 |
 | ~             | Switch case            |
