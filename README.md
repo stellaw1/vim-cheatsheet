@@ -37,9 +37,12 @@ One command a day, keeps the confusion away.
 | Ctrl + r      | Redo                                       |
 | i             | Insert                                     |
 | r             | Replace one character                      |
+| s             | Replace one character + enter Insert mode  |
+| c             | Change (movement + enter Insert mode)      |
 | a             | Append at cursor                           |
 | A             | Append at end of line                      |
 | x             | Delete                                     |
+| X             | Backspace                                  |
 | dd            | Delete line                                |
 | dw            | Delete word                                |
 | d$            | Delete to end of line                      |
