@@ -33,6 +33,7 @@ One command a day, keeps the confusion away.
 ## Edit
 | Command       | Usage                                      |
 | ------------- | ------------------------------------------ |
+| R             | Replace mode                               |
 | .             | Repeat last change                         |
 | u             | Undo                                       |
 | Ctrl + r      | Redo                                       |

@@ -335,7 +335,7 @@ NOTE: Remember that you should be learning by use, not memorization.
 
   5. Repeat steps 3 and 4 until the first sentence is the same as the second.
 
----> This lubw has a few wptfd that mrrf changing usf the change command.
+---> This line has a few words that need changing using the change command.
 ---> This line has a few words that need changing using the change command.
 
 Notice that  cw  not only replaces the word, but also places you in insert.
@@ -360,7 +360,7 @@ Notice that  cw  not only replaces the word, but also places you in insert.
 
   5. Type  c$  to make the rest of the line like the second and press <ESC>.
 
----> The end of this line needs some help to make it like the second.
+---> The end of this line needs to be corrected
 ---> The end of this line needs to be corrected using the  c$  command.
 
 
@@ -678,7 +678,7 @@ Note: This avoids typing  i , the last character, the text to insert, <ESC>,
   3. Now type  R  and replace the remainder of the text on the first line by
      typing over the old text to make the first line the same as the second.
 
----> To make the first line the same as the last on this page use the keys.
+---> To make the first line the same as the second, type R and the new text. 
 ---> To make the first line the same as the second, type R and the new text.
 
   4. Note that when you press <ESC> to exit, any unaltered text remains.
